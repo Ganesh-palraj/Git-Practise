@@ -1,0 +1,2 @@
+Learning git branches.
+will learn about the things required for building my buisness first and then cplusplus
